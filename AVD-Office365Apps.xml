@@ -1,0 +1,21 @@
+<Configuration ID="15e2148f-9ad1-47dd-8f43-f8b6a587b9a7">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+      <Language ID="nl-nl" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="OneDrive" />
+	  <ExcludeApp ID="Teams" />
+	  <ExcludeApp ID="Publisher" />
+    </Product>
+  </Add>
+  <Property Name="SharedComputerLicensing" Value="1" />
+  <Property Name="SCLCacheOverride" Value="0" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="DeviceBasedLicensing" Value="0" />
+  <Updates Enabled="FALSE" />
+  <RemoveMSI />
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>
