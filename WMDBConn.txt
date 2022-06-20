@@ -1,0 +1,2 @@
+RESPFDB=MSSQL;dbs01\management;IvantiWorkspaceControl;rTA/Bvnqea82WdHlSBHH1iGjCDeTIle+CYpVb4KzC+0KilJ4zjenopEOdWEwmYfxRuY=;0;fRHEU/NXXB/Tp/T8PFHhw/L2pNKSiMK/4f0Yxd2MFU2AxCAW8iaYIqYtp+FOV/Gv/oZEUHDc
+eKPfgs3vlml/91wEhCVRlKV6H8nSdQfn9C4=
