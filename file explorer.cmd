@@ -1,1 +1,1 @@
-C:\Windows\explorer.exe
+explorer.exe
