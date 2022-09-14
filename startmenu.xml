@@ -26,6 +26,7 @@
     <CustomTaskbarLayoutCollection PinListPlacement="Replace">
  	<defaultlayout:TaskbarLayout>
  		<taskbar:TaskbarPinList>
+	<taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Afmelden.lnk" />
 	<taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\ICS.lnk" />
 	<taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Office 2016\Excel 2016.lnk" />
 	<taskbar:DesktopApp DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Office 2016\Word 2016.lnk" />
