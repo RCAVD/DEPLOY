@@ -16,7 +16,7 @@ Result=1
 [{06216D8D-027A-4116-B2E6-32328FA688BC}-SdStartCopy2-0]
 Result=1
 [Application]
-Name=TPCL PRINTER DRIVER QM2020_2_M1
+Name=TPCL PRINTER DRIVER QM2021_3_M0
 Version=20.2.100
 Company=Toshiba Tec
 Lang=0409
