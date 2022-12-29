@@ -1,9 +1,4 @@
-Opgelost:
-ZIP Hide Rules Printers.zip (vanuit Github laten landen op lokale RDS server) nog opnemen in script en laten uitpakken naar C:\Program Files\FSLogix\Apps\Rules
-IEandEdgeUserConfig.fxa IEandEdgeUserConfig.fxr (vanuit Github laten landen op lokale RDS server) en laten uitpakken naar C:\Program Files\FSLogix\Apps\Rules
-HP-Sales driver opnemen in script
-Vinkjes Outlook Ad oppakken
-
 TO DO:
 Teams knop Outlook fixen
-HP-Sales (LOSSE PRINTER) opnemen in script
+Alle printers meenemen (vergelijk deze met de RDS-20/21)
+Duits en Frans als taalmeenemen in het OS
